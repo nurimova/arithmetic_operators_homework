@@ -1,9 +1,5 @@
-#Create a variable called 'number' and assign any value of int to it.
- 
-#Divide the number by 2 and assign number.
- 
-#Find the fraction of the number and assign to a variable called 'answer'.
- 
-#Print the answer.
- 
-#Print the number.
+#"Raqam" deb nomlangan o'zgaruvchi yarating va unga int turdagi ning istalgan son qiymatini belgilang.
+
+#Raqamni 2 ga bo'ling va raqamga taminlang.
+
+#Raqamni chop eting.

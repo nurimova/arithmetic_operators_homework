@@ -1,7 +1,7 @@
-#Create a variable 'x' and assign it the value of 10.
+#"x" o'zgaruvchisini yarating va unga 10 qiymatini belgilang.
 
-#Create a variable 'y' and assign it the value of 5.
+#"y" o'zgaruvchisini yarating va unga 5 qiymatini belgilang.
 
-#Create a variable 'result' and assign it the value of x + y.
+#"Natija" o'zgaruvchisini yarating va unga x + y qiymatini belgilang.
 
-#Print the value of the 'result'.
+#"Natija" qiymatini chop eting.

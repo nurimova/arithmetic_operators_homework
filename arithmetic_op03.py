@@ -1,7 +1,5 @@
-#Create a variable called 'number' and assign it the two-digit number
+#"n" deb nomlangan o'zgaruvchi yarating va unga ikki xonali raqamni belgilang
 
-#Find the reverse of the number and assign it to a variable called 'answer'.
+#n sonining teskarisini toping va uni "answer" deb nomlangan o'zgaruvchiga belgilang.
 
-#Print the value of the 'answer'
-
-
+#"answer" qiymatini chop eting

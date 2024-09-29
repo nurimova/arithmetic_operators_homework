@@ -1,5 +1,5 @@
-#Create a variable called 'number' with data type int.
+#Int ma'lumotlar turi bilan "raqam" deb nomlangan o'zgaruvchi yarating.
 
-#Create a variable called 'answer' and assign the remainder of the division of number by 3 to it.
+#"Javob" deb nomlangan o'zgaruvchi yarating va unga sonning 3 ga bo'linishining qolgan qismini belgilang.
 
-#Print 'answer'.
+#"Javob"ni chop eting.

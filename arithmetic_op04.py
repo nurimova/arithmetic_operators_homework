@@ -1,11 +1,11 @@
-#Create a variable called 'number' and assign it the three-digit number.
+#"Raqam" deb nomlangan o'zgaruvchi yarating va unga uch xonali raqamni belgilang.
 
-#Find the 'number' first digit and assign to x1.
+#"Raqam"ning birinchi raqamini toping va x1 ga belgilang.
 
-#Find the 'number' second digit and assign to x2.
+#"Raqam"ning ikkinchi raqamini toping va x2 ga belgilang.
 
-#Find the 'number' third digit and assign to x3.
+#"Raqam"ning uchinchi raqamini toping va x3 ga belgilang.
 
-#Create a variable called 'answer' and assign it the sum of the three digits x1, x2, x3.
+#"Javob" deb nomlangan o'zgaruvchi yarating va unga x1, x2, x3 uchta raqam yig'indisini belgilang.
 
-#Print the value of the 'answer.
+#Javobning qiymatini chop eting.

@@ -4,3 +4,5 @@ n=43
 total=n//10+n%10
 # total qiymatini chop eting.
 print(total)
+
+
